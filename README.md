@@ -70,7 +70,11 @@
 ### ⏱️ Tempo de código (WakaTime)
 
 <!--START_SECTION:waka-->
-<!-- Não edite manualmente essa seção. A GitHub Action "waka-readme" preenche automaticamente. -->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ---
