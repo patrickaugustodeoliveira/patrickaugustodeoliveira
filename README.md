@@ -3,10 +3,10 @@
 <h3 align="center">Estudante de Engenharia de Software | Full Stack em formação</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/[seu-usuario-linkedin]/" target="_blank">
+  <a href="https://www.linkedin.com/in/patrick-augusto-10070a3b6/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:[seuemail@email.com]" target="_blank">
+  <a href="mailto:patrickaugusto058@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -77,5 +77,5 @@
 
 ### 📫 Contato
 
-- LinkedIn: [seu link]
-- Email: [patrickaugusto058@gmail.com]
+- LinkedIn: [patrick-augusto](https://www.linkedin.com/in/patrick-augusto-10070a3b6/)
+- Email: patrickaugusto058@gmail.com
