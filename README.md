@@ -78,4 +78,4 @@
 ### 📫 Contato
 
 - LinkedIn: [seu link]
-- Email: [seuemail@email.com]
+- Email: [patrickaugusto058@gmail.com]
