@@ -58,12 +58,10 @@
 
 ### 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=patrickaugustodeoliveira&show_icons=true&theme=default" alt="GitHub stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickaugustodeoliveira&layout=compact" alt="Top languages" />
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?
+username=patrickaugustodeoliveira&show_icons=true&theme=default" alt="GitHub stats" /> </p> 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?
+username=patrickaugustodeoliveira&layout=compact" alt="Top languages" /> </p>
 
 ---
 
