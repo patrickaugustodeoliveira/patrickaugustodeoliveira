@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou Patrick 👋</h1>
+<h1 align="center">Olá, eu sou Patrick Augusto de Oliveira 👋</h1>
 
 <h3 align="center">Estudante de Engenharia de Software | Full Stack em formação</h3>
 
